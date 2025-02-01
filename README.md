@@ -1,0 +1,1 @@
+This repository demonstrates a common Swift error: passing an incorrect data type to a function. The `bug.swift` file contains the erroneous code, attempting to multiply a Double and a String.  `bugSolution.swift` shows how to correct this by ensuring all function arguments are of the expected type.
